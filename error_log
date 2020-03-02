@@ -1,0 +1,449 @@
+[15-May-2019 15:50:54 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[15-May-2019 16:56:14 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[15-Jul-2019 04:13:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/expresib/public_html/application/views/admin/team_overall.php on line 132
+[15-Jul-2019 04:17:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/expresib/public_html/application/views/admin/team_overall.php on line 142
+[17-Jul-2019 06:54:07 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 16:40:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/expresib/public_html/application/views/user/index_user.php on line 135
+[17-Jul-2019 19:24:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:24:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('assets', 'home-bg.jpg')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:24:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:24:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('assets', 'home-bg.jpg')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:26:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:26:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('assets', 'home-bg.jpg')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:26:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('8')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:26:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/expresib/public_html/application/views/user/evaluasi_view.php:361
+Stack trace:
+#0 /home/expresib/public_html/system/core/Loader.php(834): include()
+#1 /home/expresib/public_html/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/expresib/public_html/application/controllers/user.php(127): CI_Loader->view('user/evaluasi_v...', Array)
+#3 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('assets', 'home-bg.jpg')
+#4 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#5 {main}
+  thrown in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 361
+[17-Jul-2019 19:27:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 527
+[17-Jul-2019 19:28:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 527
+[17-Jul-2019 19:28:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 527
+[17-Jul-2019 19:28:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 527
+[17-Jul-2019 19:28:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 527
+[17-Jul-2019 19:28:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 527
+[17-Jul-2019 19:34:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/expresib/public_html/application/views/user/evaluasi_view.php on line 270
+[17-Jul-2019 19:44:46 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 20:01:59 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 20:10:32 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 20:25:53 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 20:36:20 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 20:47:54 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 21:58:49 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 22:06:29 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 22:07:37 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[17-Jul-2019 22:36:25 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[18-Jul-2019 05:36:47 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[30-Jul-2019 00:15:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$newdata' (T_VARIABLE) in /home/expresib/public_html/application/controllers/login.php on line 53
+[30-Jul-2019 00:15:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function loginstats() on null in /home/expresib/public_html/application/controllers/login.php:67
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): Login->pegawai()
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/login.php on line 67
+[30-Jul-2019 00:19:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$newdata' (T_VARIABLE) in /home/expresib/public_html/application/controllers/login.php on line 53
+[30-Jul-2019 10:50:38 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[30-Jul-2019 14:48:20 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[30-Jul-2019 14:48:20 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[01-Aug-2019 15:11:48 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[03-Aug-2019 09:14:38 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[23-Aug-2019 16:04:21 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[26-Aug-2019 03:44:51 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[26-Aug-2019 11:31:35 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[26-Aug-2019 11:31:44 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[26-Aug-2019 12:58:59 Asia/Jakarta] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[26-Aug-2019 21:52:17 Asia/Jakarta] PHP Fatal error:  Cannot redeclare model_admin::get_progress_syariah() in /home/expresib/public_html/application/models/model_admin.php on line 90
+[27-Aug-2019 01:21:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:22:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:22:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:24:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:25:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:30:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:32:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 01:33:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 02:07:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 02:11:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[26-Aug-2019 22:59:58 UTC] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[27-Aug-2019 08:07:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('544')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 08:12:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('544')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 08:29:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 08:30:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 08:31:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 08:31:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 09:57:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 09:57:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 10:01:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 12:49:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 12:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 12:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 12:53:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('3')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 12:55:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('3')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 12:56:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 13:09:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('157')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 13:10:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('157')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 14:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 14:08:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 07:29:24 UTC] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[27-Aug-2019 15:02:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 15:02:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 15:03:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 15:04:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('7')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 15:39:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('175')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 15:40:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('175')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 15:53:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('175')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 15:53:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:328
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_update('175')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 328
+[27-Aug-2019 17:28:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:31:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:32:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:32:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:34:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:37:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:37:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:37:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:38:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:38:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:38:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:39:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:39:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:42:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:42:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:42:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:43:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[27-Aug-2019 17:45:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method model_users::update_nlbobot2() in /home/expresib/public_html/application/controllers/user.php:223
+Stack trace:
+#0 /home/expresib/public_html/system/core/CodeIgniter.php(360): User->evaluasi_data('1')
+#1 /home/expresib/public_html/index.php(202): require_once('/home/expresib/...')
+#2 {main}
+  thrown in /home/expresib/public_html/application/controllers/user.php on line 223
+[30-Aug-2019 06:36:08 UTC] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
+[30-Aug-2019 06:36:10 UTC] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/expresib/public_html/application/controllers/error.php on line 11
